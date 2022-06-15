@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "We fund individuals in the first instance",
+    "description": "Individuals carry their learnings, experiences, passions and hopes for the future with them throughout their lives. Investing in and supporting them to work on what is broken in their world, equips them to continue to affect change far beyond the life of a specific project or organisation.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "We offer true fellowship",
+    "description": "When crafting innovative solutions to social challenges, no step-by-step guide or external expert can offer the support you need to keep on experimenting, testing, failing and fighting. A network of peers with a comparable frame of reference, learning and evolving as they travel along similar roads, helps accelerate the journey and amplify useful truths along the way.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,53 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "We ask Fellows to invest in their own ideas",
+    "description": "Along with their own time and attention, social change agents and entrepreneurs typically invest a considerable amount of their own resources trying to bring about their vision. Continuing to do so is an indicator of their continued commitment and ownership.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+    },
+    {
+    "title": "We offer freedom and flexibility",
+    "description": "Realising a big vision requires many incremental steps and involves a lot of uncertainty. Each step affects change in a tiny way, shifts the environment and establishes a new norm over time. In order to continue driving the change you want to see in the world, you have to be willing and able to adapt, evolve and pivot.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+    },
+    {
+    "title": "Our Fellows own their IP",
+    "description": "Technology, policy and boundaries change so fast that the best possible chance of success arises when someone can be agile and determine the future of an idea or project quickly. To this end, it is important to have the necessary ownership and control to make that happen.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+    },
+    {
+    "title": "We encourage innovation and taking risks",
+    "description": "Where conventional thinking fails, fresh thinking and unconventional approaches are necessary. There may be no single right answer. Without the failures, you don’t learn and little progress is made. Those brave enough to innovate and take these risks are the ones that get real results.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+    },
+    {
+    "title": "We support both for and not for profit implementations",
+    "description": "Progress is the point. Sometimes progress is best made through charitable acts. At other times the commercial market needs to take up an approach in order to sustain it. For or not for profit are merely tools. Choose them as you need them.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "We open what we fund",
+    "description": "Intellectual property that is both legally and technically open allows others to adopt, replicate, reuse, adapt, improve, bring to scale, write about, talk about, remix, translate, digitise, redistribute and build upon it. These freedoms are key to the results of intellectual and financial investment getting to intended and unintended beneficiaries and removes the constraints of time and money available to the creator.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

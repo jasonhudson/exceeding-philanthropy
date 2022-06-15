@@ -5,48 +5,19 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+The free and open source software (FOSS) movement has not only created widely used software but million dollar businesses, using collaborative development approaches and open licences. Although the model is well established for software, it is not the case for education, philanthropy, hardware or social development. The default imposed on knowledge resources by copyright law is automatic lock down, with ideas generated and owned by 'experts'. This default makes little sense if your agenda is social change.
 
-## Ne verba patulosque numen vix libet
+## An open source world
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+We want to understand whether, and how, applying the ethos, processes and licences of the free and open source software world to areas outside of software can add value.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+- What are the optimal conditions for innovation towards positive social change?
+- Can openness help provide key building blocks for further innovation?
+- Can it encourage more collaboration, or help good ideas spread faster?
+- These are only some of the questions we are exploring along with our fellows.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## More than just free
 
-## Postquam tamen
+Philosophically and practically, we default to open instead of lock down. We subscribe to the Open Definition where data or content is regarded as open if anyone is free to use, reuse and redistribute it, thereby ensuring interoperability between different pools of material. But for us, openness also goes beyond the licence. It includes being open to collaboration and contributions from outside our immediate reference group, inviting many eyeballs to review our process and make it better. Combining openly licensed intellectual property with open practices enables and encourages others to experiment in their own environments, localise, contextualise, translate, adapt and spread the tools and methodologies we are developing well beyond our own reach and imagination.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+By no means do we believe that every piece of content in the world have to be openly licensed or every process collaborative. In the digital age, the lines have become more and more blurred between the traditional categories of creators and users of intellectual property. We are taking the stance closest to extreme openness as a counter balance to the prevailing idea of completely closed, in order to establish new norms along the continuum.

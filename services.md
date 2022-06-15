@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Our fellowship model
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We began our new model with a handful of individuals applying openness to a small range of fields, including philanthropy, intellectual property, education, and telecommunications. Today, our community of fellows past and present has swelled to 54, most of whom remain active members, long after their funding period has finished. But, more importantly, the vast majority are still influential and pursuing social change in their chosen fields. 
