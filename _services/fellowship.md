@@ -6,41 +6,8 @@ weight: 3
 layout: service
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Shuttleworth Fellows tackle problems that few others recognise or see. They reimagine and reinvent systems, challenge the status quo, and trade in the comfort and security of ‘normal’ careers for dedicating their lives to their cause. On paper, this seems an exciting adventure. In reality, each fellow must find their way through a dense and tangled pathway, often alone, far ahead of anyone else in the field. As a result, their journey is challenging, exhausting, and isolating. 
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+As enablers, not funders, we work hard to ease these burdens. But we do not have all the answers. To give each fellow more support, we connect them with a network of like-minded others - the fellowship - where they can find common ground, draw inspiration, and share stories from the front lines. This non-hierarchal community has evolved over time, with each new fellow and every individual lesson learned feeding into an ever-growing, collective pool of knowledge. 
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
-
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
-
-## Patulis Veneris est expulit adversaque magnum mediaque
-
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+Creating a true fellowship is no easy task. It requires patience and trust from both sides, and an agreement to work together with care, honesty, and mutual respect. But our long-term commitment to nurturing this idea has been rewarded exponentially. The vast majority of fellows remain actively engaged, and each new addition to the flock has broadened our perspective and expanded our network reach. It has also become influential: we advised the Open Society Foundation, Patrick M. McGovern Foundation, and the Obama Foundation on starting their fellowship programmes. 
