@@ -3,7 +3,7 @@ title: "Karien Bezuidenhout"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/karien-bezuidenhout.jpg"
-jobtitle: "Director"
+jobtitle: "Chief Operations Officer"
 linkedinurl: "https://www.linkedin.com/example2"
 promoted: true
 weight: 2
